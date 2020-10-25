@@ -8,6 +8,7 @@ const Flexible = styled.div`
     display:flex;
     flex-wrap: wrap;
     justify-content:center;
+    color:white;
   
     `
 function Character(props){

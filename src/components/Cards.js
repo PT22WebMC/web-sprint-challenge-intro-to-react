@@ -8,6 +8,7 @@ const Square = styled.div`
     width: 40%;
     font-size: .8rem;
     margin: 2rem;
+    background-color:black;
 `
 
 const Img = styled.img`
